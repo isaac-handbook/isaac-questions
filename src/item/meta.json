@@ -4587,7 +4587,286 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 320,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 321,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 322,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 323,
+    "tags": [
+      "use-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 324,
+    "tags": [
+      "use-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 325,
+    "tags": [
+      "use-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 326,
+    "tags": [
+      "use-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 327,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "每当角色受伤时，如果角色的红心小于等于 [[半颗]]，则获得一个5秒钟的护盾",
+        "wrongList": [
+          "一颗"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 328,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "每当角色受伤时，如果角色的红心小于等于 [[半颗]]，则对房间内的所有敌人造成40点伤害",
+        "wrongList": [
+          "一颗"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 329,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "与{{item|内眼}}搭配，效果为：[[生成2颗小悬浮泪弹环绕着主悬浮泪弹]]",
+        "wrongList": [
+          "生成3颗小悬浮泪弹环绕着主悬浮泪弹",
+          "{{N}}覆盖{{item|内眼}}",
+          "{{item|内眼}}覆盖{{N}}"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "与{{item|变异蜘蛛}}搭配，效果为：[[生成3颗小悬浮泪弹环绕着主悬浮泪弹]]",
+        "wrongList": [
+          "生成2颗小悬浮泪弹环绕着主悬浮泪弹",
+          "{{N}}覆盖{{item|变异蜘蛛}}",
+          "{{item|变异蜘蛛}}覆盖{{N}}"
+        ]
+      },
+      {
+        "stage": 2,
+        "value": "与{{item|硫磺火}}搭配，效果为：[[悬浮泪弹变为一个鲜血激光环]]",
+        "wrongList": [
+          "{{N}}覆盖{{item|硫磺火}}",
+          "{{item|硫磺火}}覆盖{{N}}"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "与{{item|妈妈的菜刀}}搭配，效果为：[[悬浮泪弹变为一个悬浮菜刀]]",
+        "wrongList": [
+          "{{N}}覆盖{{item|妈妈的菜刀}}",
+          "{{item|妈妈的菜刀}}覆盖{{N}}"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "与{{item|科技X}}搭配，效果为：[[{{item|科技X}}覆盖{{N}}]]",
+        "wrongList": [
+          "悬浮泪弹变为一个激光球",
+          "{{N}}覆盖{{item|科技X}}"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "与{{item|眼球突出}}搭配，效果为：[[泪弹越靠近角色就越大]]",
+        "wrongList": [
+          "{{N}}覆盖{{item|眼球突出}}，无特殊效果"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 330,
+    "tags": [
+      "dmg",
+      "tears",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "{{N}}会大幅提高射速，并且使角色获得伤害倍率 [[x20%]]",
+        "wrongList": [
+          "x10%",
+          "x50%"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "与{{item|硫磺火}}搭配，效果为：[[使{{item|硫磺火}}不需要蓄力]]",
+        "wrongList": [
+          "{{item|硫磺火}}覆盖{{N}}，无特殊效果"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 331,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "luck",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "该道具的解锁条件为：[[用{{chara|游魂}}获得所有困难模式通关标记]]",
+        "wrongList": [
+          "获得所有表角色的困难模式通关标记",
+          "获得所有表角色和里角色的困难模式通关标记"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "{{N}}不会影响的属性是：[[{{移速}}移速]]",
+        "wrongList": [
+          "{{伤害}}伤害",
+          "{{弹速}}弹速",
+          "{{射速}}射速"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 332,
+    "tags": [
+      "hp",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 2,
+        "value": "角色死亡后会原地复活为 [[{{chara|复活的拉撒路}}]]",
+        "wrongList": [
+          "{{chara|拉撒路}}"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "如果角色同时拥有{{N}}和{{item|犹大的影子}}，死亡时会优先消耗 [[{{N}}]]",
+        "wrongList": [
+          "{{item|犹大的影子}}"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 333,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "该道具效果为：[[在地图上显示所有房间的位置以及标志]]",
+        "wrongList": [
+          "获得三个心之容器",
+          "在角色周围生成一个能够排斥敌人和敌人的眼泪的光环"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 334,
+    "tags": [
+      "hp",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "该道具效果为：[[获得三个心之容器]]",
+        "wrongList": [
+          "在地图上显示所有房间的位置以及标志",
+          "在角色周围生成一个能够排斥敌人和敌人的眼泪的光环"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 335,
+    "tags": [
+      "hp",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "该道具效果为：[[在角色周围生成一个能够排斥敌人和敌人的眼泪的光环]]",
+        "wrongList": [
+          "在地图上显示所有房间的位置以及标志",
+          "获得三个心之容器"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4620,7 +4899,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4653,7 +4932,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4686,7 +4965,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4719,7 +4998,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4752,7 +5031,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4785,7 +5064,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4818,7 +5097,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4851,7 +5130,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4884,7 +5163,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4917,7 +5196,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4950,7 +5229,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -4983,7 +5262,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -5016,7 +5295,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -5049,7 +5328,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -5082,7 +5361,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -5115,7 +5394,7 @@
   },
   {
     "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
@@ -5148,205 +5427,7 @@
   },
   {
     "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
-    "tags": [
-      "dmg",
-      "tears",
-      "shots",
-      "range",
-      "luck",
-      "hp",
-      "speed",
-      "auto-spec",
-      "use-spec"
-    ],
-    "questions": [
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-      {
-        "stage": 3,
-        "value": "[[]]",
-        "wrongList": [
-          "",
-          ""
-        ]
-      },
-    ]
-  },
-  {
-    "type": "item",
-    "id": 2,
+    "id": 3,
     "tags": [
       "dmg",
       "tears",
