@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "item": [
     {
       "type": "item",
@@ -174,9 +175,9 @@
         },
         {
           "stage": 3,
-          "value": "与{{item|硫磺火}}搭配，会 [[缩短射程]]",
+          "value": "与{{item|硫磺火}}搭配，会 [[不影响射程]]",
           "wrongList": [
-            "不影响射程"
+            "缩短射程"
           ]
         }
       ]
@@ -360,20 +361,12 @@
       "type": "item",
       "id": 16,
       "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed",
-        "auto-spec",
-        "use-spec"
+        "hp"
       ],
       "questions": [
         {
           "stage": 2,
-          "value": "拾取后，获得两个心之容器，并且 [[回复会有红心]]",
+          "value": "拾取后，获得两个心之容器，并且 [[回复所有红心]]",
           "wrongList": [
             "回复两个红心"
           ]
@@ -453,17 +446,7 @@
       "tags": [
         "hp"
       ],
-      "questions": [
-        {
-          "stage": 3,
-          "value": "拥有{{item|大胃王}}时，拾取{{N}}后：[[增加{{射速}}射速和{{射程}}射程]]",
-          "wrongList": [
-            "增加{{射速}}射速和{{伤害}}伤害",
-            "增加{{射速}}射速和{{弹速}}弹速",
-            "增加{{射速}}射速和{{幸运}}幸运"
-          ]
-        }
-      ]
+      "questions": []
     },
     {
       "type": "item",
@@ -471,17 +454,7 @@
       "tags": [
         "hp"
       ],
-      "questions": [
-        {
-          "stage": 3,
-          "value": "拥有{{item|大胃王}}时，拾取{{N}}后：[[增加{{射速}}射速和{{弹速}}弹速]]",
-          "wrongList": [
-            "增加{{射速}}射速和{{伤害}}伤害",
-            "增加{{射速}}射速和{{射程}}射程",
-            "增加{{射速}}射速和{{幸运}}幸运"
-          ]
-        }
-      ]
+      "questions": []
     },
     {
       "type": "item",
@@ -507,17 +480,7 @@
       "tags": [
         "hp"
       ],
-      "questions": [
-        {
-          "stage": 3,
-          "value": "拥有{{item|大胃王}}时，拾取{{N}}后：[[增加{{射程}}射程和{{弹速}}弹速]]",
-          "wrongList": [
-            "增加{{射程}}射程和{{射速}}射速",
-            "增加{{射程}}射程和{{伤害}}伤害",
-            "增加{{射程}}射程和{{幸运}}幸运"
-          ]
-        }
-      ]
+      "questions": []
     },
     {
       "type": "item",
@@ -622,8 +585,7 @@
           "stage": 3,
           "value": "使用后，对房间内所有敌人造成 [[40]] 点伤害",
           "wrongList": [
-            "10",
-            "120"
+            "10"
           ]
         }
       ]
@@ -636,7 +598,7 @@
       ],
       "questions": [
         {
-          "stage": 3,
+          "stage": 2,
           "value": "哪个角色初始携带该道具：[[{{chara|???}}]]",
           "wrongList": [
             "{{chara|以撒}}",
@@ -853,8 +815,7 @@
           "stage": 3,
           "value": "使用后发射一道激光柱，对敌人：[[造成12次每次200%角色伤害]]",
           "wrongList": [
-            "造成12次每次100%角色伤害",
-            "造成6次每次200%角色伤害"
+            "造成12次每次100%角色伤害"
           ]
         }
       ]
@@ -945,8 +906,7 @@
           "stage": 3,
           "value": "当{{幸运}}幸运为 [[5点]] 以上时，100%会在发射泪弹的同时向后发射一颗。",
           "wrongList": [
-            "10点",
-            "20点"
+            "15点"
           ]
         }
       ]
@@ -1052,14 +1012,6 @@
       "type": "item",
       "id": 65,
       "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed",
-        "auto-spec",
         "use-spec"
       ],
       "questions": [
@@ -1256,7 +1208,7 @@
           "value": "拾取后，可以：[[生成1个随机胶囊]]",
           "wrongList": [
             "生成1个炸弹",
-            "生成1个要是"
+            "生成1个钥匙"
           ]
         }
       ]
@@ -1483,15 +1435,14 @@
           "stage": 3,
           "value": "当角色的幸运达到 [[15点]] 以上时，100%会同时向四个方向发射泪弹",
           "wrongList": [
-            "8点",
-            "36点"
+            "5点"
           ]
         },
         {
           "stage": 3,
-          "value": "与{{item|内眼}}搭配，效果为：[[其他三个方向也发出三颗泪弹]]",
+          "value": "与{{item|内眼}}搭配，效果为：[[其他三个方向只会发出一颗泪弹]]",
           "wrongList": [
-            "其他三个方向只会发出一颗泪弹"
+            "其他三个方向也发出三颗泪弹"
           ]
         }
       ]
@@ -1513,10 +1464,10 @@
       "questions": [
         {
           "stage": 3,
-          "value": "当角色的幸运达到 [[15点]] 以上时，100%会发射减速泪弹",
+          "value": "当角色的{{幸运}}幸运达到15点以上时，100%会发射[[减速]]泪弹",
           "wrongList": [
-            "8点",
-            "36点"
+            "石化",
+            "毒性"
           ]
         }
       ]
@@ -1736,10 +1687,10 @@
       "questions": [
         {
           "stage": 3,
-          "value": "当{{幸运}}幸运为 [[12点]] 以上时，100%会发射毒性泪弹",
+          "value": "当{{幸运}}幸运为12点以上时，100%会发射[[毒性]]泪弹",
           "wrongList": [
-            "8点",
-            "20点"
+            "石化",
+            "减速"
           ]
         },
         {
@@ -1801,7 +1752,7 @@
       ],
       "questions": [
         {
-          "stage": 3,
+          "stage": 2,
           "value": "哪个角色初始携带该道具：[[{{chara|以撒}}]]",
           "wrongList": [
             "{{chara|抹大拉}}",
@@ -2535,11 +2486,12 @@
       ],
       "questions": [
         {
-          "stage": 3,
-          "value": "使用后，获得 [[{{health|红0|永恒之心=1}}]]",
+          "stage": 2,
+          "value": "使用后，获得 [[一个永恒之心]]",
           "wrongList": [
-            "{{health|红0}}",
-            "{{health|骨0}}"
+            "一个心之容器",
+            "一个魂心",
+            "一个黑心"
           ]
         }
       ]
@@ -2588,8 +2540,8 @@
           "stage": 3,
           "value": "与{{item|硫磺火}}搭配，效果为：[[鲜血激光柱拥有中毒效果，每段判定第一个击中的障碍物或敌人位置会产生爆炸]]",
           "wrongList": [
-            "{{N}}会覆盖{{item|吐根酊}}",
-            "{{item|吐根酊}}会覆盖{{N}}"
+            "{{N}}会覆盖{{item|硫磺火}}",
+            "{{item|硫磺火}}会覆盖{{N}}"
           ]
         }
       ]
@@ -2606,8 +2558,7 @@
           "stage": 3,
           "value": "当角色的幸运达到 [[9点]] 以上时，100%会发射牙齿泪弹",
           "wrongList": [
-            "15点",
-            "5点"
+            "15点"
           ]
         },
         {
@@ -2991,7 +2942,7 @@
       "questions": [
         {
           "stage": 3,
-          "value": "该道具会降低那些属性？[[{{射速}}射速、{{弹速}}弹速]]",
+          "value": "该道具会降低哪些属性？[[{{射速}}射速 和 {{弹速}}弹速]]",
           "wrongList": [
             "只有{{射速}}射速",
             "只有{{弹速}}弹速"
@@ -3247,8 +3198,7 @@
           "stage": 3,
           "value": "当角色的幸运达到 [[27点]] 以上时，100%会发射魅惑泪弹",
           "wrongList": [
-            "15点",
-            "8点"
+            "9点"
           ]
         }
       ]
@@ -3273,8 +3223,7 @@
           "stage": 3,
           "value": "当角色的幸运达到 [[27点]] 以上时，100%会发射混乱泪弹",
           "wrongList": [
-            "15点",
-            "8点"
+            "9点"
           ]
         }
       ]
@@ -3487,8 +3436,7 @@
           "stage": 3,
           "value": "每当角色发射泪弹时，如果房间中的蓝蜘蛛少于 [[5只]]，则会有概率生成蓝蜘蛛",
           "wrongList": [
-            "2只",
-            "10只"
+            "15只"
           ]
         }
       ]
@@ -3530,8 +3478,7 @@
           "stage": 3,
           "value": "当{{幸运}}幸运为 [[80点]] 以上时，受到伤害时100%会生成1个红心",
           "wrongList": [
-            "20点",
-            "60点"
+            "20点"
           ]
         }
       ]
@@ -3600,15 +3547,7 @@
       "type": "item",
       "id": 225,
       "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed",
-        "auto-spec",
-        "use-spec"
+        "auto-spec"
       ],
       "questions": [
         {
@@ -3623,7 +3562,6 @@
           "stage": 3,
           "value": "当{{幸运}}幸运为 [[46点]] 以上时，受到伤害时100%会生成1个魂心",
           "wrongList": [
-            "20点",
             "80点"
           ]
         }
@@ -3668,7 +3606,7 @@
           "wrongList": [
             "石化",
             "跟踪",
-            "中毒"
+            "毒性"
           ]
         }
       ]
@@ -3705,7 +3643,7 @@
           "wrongList": [
             "石化",
             "跟踪",
-            "中毒"
+            "毒性"
           ]
         }
       ]
@@ -3723,7 +3661,7 @@
           "wrongList": [
             "石化",
             "恐惧",
-            "中毒"
+            "毒性"
           ]
         }
       ]
@@ -3782,7 +3720,7 @@
           "stage": 3,
           "value": "与{{item|弥达斯之触}}搭配，效果为：[[角色碰到的敌人会变成金大便]]",
           "wrongList": [
-            "角色碰到的敌人会变成普通"
+            "角色碰到的敌人会变成普通大便"
           ]
         }
       ]
@@ -3842,6 +3780,1800 @@
         "luck",
         "hp",
         "speed"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 241,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：复制清理房间后的奖励，但有 [[1/3]] 概率将清理奖励替换为空掉落",
+          "wrongList": [
+            "1/2"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 242,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：每当敌方泪弹击中角色时，有 [[50%]] 概率抵消该泪弹的伤害。",
+          "wrongList": [
+            "20%",
+            "100%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 243,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|好朋友一辈子！}}搭配，效果为：[[无任何效果]]",
+          "wrongList": [
+            "会使{{N}}增大",
+            "会使{{N}}发射激光"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 244,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 245,
+      "tags": [
+        "dmg",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色一次发射2颗泪弹，并使伤害修正 [[x80%]]",
+          "wrongList": [
+            "x100%",
+            "x50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 246,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 247,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：使跟班造成的伤害 [[x200%]]",
+          "wrongList": [
+            "x150%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 248,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：蓝苍蝇、蓝蜘蛛造成的伤害 [[x200%]]",
+          "wrongList": [
+            "x150%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 249,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：使得 [[{{room|头目房}}]] 的道具变为二选一",
+          "wrongList": [
+            "{{room|宝箱房}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 250,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：将所有 [[炸弹]] 变为成双掉落",
+          "wrongList": [
+            "钥匙",
+            "心",
+            "硬币"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 251,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：[[将所有胶囊转化为随机卡牌]]",
+          "wrongList": [
+            "将所有卡牌转化为随机胶囊"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 252,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：[[将所有卡牌转化为随机胶囊]]",
+          "wrongList": [
+            "将所有胶囊转化为随机卡牌"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 253,
+      "tags": [
+        "luck",
+        "hp"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 254,
+      "tags": [
+        "dmg",
+        "range"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 255,
+      "tags": [
+        "tears",
+        "shots"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 256,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 258,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 259,
+      "tags": [
+        "dmg",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当{{幸运}}幸运为20点以上时，100%会发射 [[恐惧]] 泪弹",
+          "wrongList": [
+            "混乱",
+            "石化",
+            "粘性爆炸"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 260,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，可以使恶魔房开启率 [[+15%]]",
+          "wrongList": [
+            "5%",
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 261,
+      "tags": [
+        "dmg",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色的泪弹停留在空中的时间越长泪弹就会越小，伤害按百分比减少，最近时可造成 [[300%]] 的伤害",
+          "wrongList": [
+            "150%",
+            "800%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 262,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色受到伤害时，如果角色只有 [[一颗心或以下]]，触发{{item|死灵之书}}的效果",
+          "wrongList": [
+            "半颗心或以下"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 263,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 264,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 265,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}每次抵挡敌方泪弹后，有 [[10%]] 的概率触发{{item|死灵之书}}的效果",
+          "wrongList": [
+            "100%",
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 266,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 267,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 268,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 269,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 270,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 271,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 272,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}的爆炸 [[会]] 对角色造成伤害",
+          "wrongList": [
+            "不会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 273,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}的爆炸 [[会]] 对角色造成伤害",
+          "wrongList": [
+            "不会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 274,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 2,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 276,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 277,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 278,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "{{N}}会自动拾取的心心是：[[红心]]",
+          "wrongList": [
+            "魂心",
+            "黑心"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}每拾取 [[1.5个]] 红心就会触发一次动作",
+          "wrongList": [
+            "1个",
+            "2个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 279,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 280,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "{{N}}跟班在房间中随意走动，偶尔会生成 [[蓝蜘蛛]]",
+          "wrongList": [
+            "蓝苍蝇"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 281,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 282,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用该道具能否免疫{{room|诅咒房}}的伤害？[[不可以免疫]]",
+          "wrongList": [
+            "可以免疫"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 283,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，触发的效果不包含：[[{{item|计数二十面骰}}]]",
+          "wrongList": [
+            "{{item|四面骰}}",
+            "{{item|六面骰}}",
+            "{{item|二十面骰}}",
+            "{{item|一面骰}}",
+            "{{item|七面骰}}",
+            "{{item|八面骰}}",
+            "{{item|十面骰}}",
+            "{{item|十二面骰}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 284,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 285,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 286,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 287,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "如果角色当前已经拥有了{{item|指南针}}和{{item|藏宝图}}，那么在使用该道具后，一定会获得[[{{item|蓝地图}}]]的效果",
+          "wrongList": [
+            "{{item|X光透视}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 288,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，生成 [[4~8]] 个蓝蜘蛛",
+          "wrongList": [
+            "1~2"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 289,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具为时间充能型主动道具，冷却时间为 [[4秒]]",
+          "wrongList": [
+            "2秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 290,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具可以收集红心，那能否收集魂心？[[不可以]]",
+          "wrongList": [
+            "可以"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "该道具可收集的红心上限为：[[4个]]",
+          "wrongList": [
+            "2个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 291,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 292,
+      "tags": [
+        "hp",
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "在本层使用该道具并清理{{room|头目房}}后，会生成恶魔房道具。此时进行交易 [[会]] 影响天使房转换率",
+          "wrongList": [
+            "不会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 293,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 294,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 295,
+      "tags": [
+        "dmg",
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "消耗硬币可以对房间内所有敌人造成伤害。当角色没有硬币时，使用该道具会：[[没有任何效果]]",
+          "wrongList": [
+            "减少半个生命，并触发一次道具效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 296,
+      "tags": [
+        "hp",
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 297,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "如果角色拥有{{item|奇怪的钥匙}}，使用{{N}}的效果为：[[生成6个随机道具池的道具，并移除{{item|奇怪的钥匙}}]]",
+          "wrongList": [
+            "根据不同的楼层触发不同的效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 298,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，角色获得无敌状态 [[6秒]]",
+          "wrongList": [
+            "20秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 299,
+      "tags": [
+        "speed",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 300,
+      "tags": [
+        "speed",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 301,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 302,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，碰到可推动炸药桶 [[会]] 使其爆炸",
+          "wrongList": [
+            "不会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 303,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当{{幸运}}幸运为10点以上时，每当角色受到伤害时，100%会 [[触发{{item|影之书}}的效果]]",
+          "wrongList": [
+            "触发{{item|彩虹独角兽}}的效果",
+            "触发{{item|游戏掌机}}的效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 304,
+      "tags": [
+        "dmg",
+        "tears",
+        "range",
+        "speed",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，可以立刻获得 [[6]] 个硬币、炸弹和钥匙",
+          "wrongList": [
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 305,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，角色发射 [[毒性]] 泪弹",
+          "wrongList": [
+            "恐惧",
+            "石化"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 306,
+      "tags": [
+        "speed",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 307,
+      "tags": [
+        "dmg",
+        "tears",
+        "range",
+        "hp",
+        "speed",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}不会提升的属性是：[[{{弹速}}弹速]]",
+          "wrongList": [
+            "{{伤害}}伤害",
+            "{{移速}}移速",
+            "{{射速}}射速",
+            "{{射程}}射程"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 308,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 309,
+      "tags": [
+        "tears",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具的效果为：[[泪弹的击退效果增强]]",
+          "wrongList": [
+            "角色发射毒性泪弹",
+            "角色移动会留下水迹"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 310,
+      "tags": [
+        "dmg",
+        "tears",
+        "shots",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，伤害倍率 x[[200%]]",
+          "wrongList": [
+            "150%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 311,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当角色死亡时，任务在上一房间复活为{{chara|犹大之影}}，并获得伤害倍率 x[[200%]]",
+          "wrongList": [
+            "150%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色为{{chara|堕化犹大}}时，角色死亡后会复活为 [[自身]]",
+          "wrongList": [
+            "{{chara|犹大之影}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 312,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 313,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "在给贪婪机捐献 [[879]] 枚硬币后，{{chara|游魂}}会初始携带该道具",
+          "wrongList": [
+            "439",
+            "68"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 314,
+      "tags": [
+        "hp",
+        "speed",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，会获得 [[1个]] 心之容器",
+          "wrongList": [
+            "2个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 315,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 316,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具满蓄力时可以连续发射 [[5颗]] 泪弹",
+          "wrongList": [
+            "10颗"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|硫磺火}}搭配使用，效果为：[[{{item|硫磺火}}覆盖{{N}}]]",
+          "wrongList": [
+            "角色会拥有更长的蓄力时间，并在满蓄力时发射5道硫磺火"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 317,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 318,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 319,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 320,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 321,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 322,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 323,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 324,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 325,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 326,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 327,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色受伤时，如果角色的红心小于等于 [[半颗]]，则获得一个5秒钟的护盾",
+          "wrongList": [
+            "一颗"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 328,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色受伤时，如果角色的红心小于等于 [[半颗]]，则对房间内的所有敌人造成40点伤害",
+          "wrongList": [
+            "一颗"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 329,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|内眼}}搭配，效果为：[[生成2颗小悬浮泪弹环绕着主悬浮泪弹]]",
+          "wrongList": [
+            "生成3颗小悬浮泪弹环绕着主悬浮泪弹",
+            "{{N}}覆盖{{item|内眼}}",
+            "{{item|内眼}}覆盖{{N}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|变异蜘蛛}}搭配，效果为：[[生成3颗小悬浮泪弹环绕着主悬浮泪弹]]",
+          "wrongList": [
+            "生成2颗小悬浮泪弹环绕着主悬浮泪弹",
+            "{{N}}覆盖{{item|变异蜘蛛}}",
+            "{{item|变异蜘蛛}}覆盖{{N}}"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[悬浮泪弹变为一个鲜血激光环]]",
+          "wrongList": [
+            "{{N}}覆盖{{item|硫磺火}}",
+            "{{item|硫磺火}}覆盖{{N}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|妈妈的菜刀}}搭配，效果为：[[悬浮泪弹变为一个悬浮菜刀]]",
+          "wrongList": [
+            "{{N}}覆盖{{item|妈妈的菜刀}}",
+            "{{item|妈妈的菜刀}}覆盖{{N}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|科技X}}搭配，效果为：[[{{item|科技X}}覆盖{{N}}]]",
+          "wrongList": [
+            "悬浮泪弹变为一个激光球",
+            "{{N}}覆盖{{item|科技X}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|眼球突出}}搭配，效果为：[[泪弹越靠近角色就越大]]",
+          "wrongList": [
+            "{{N}}覆盖{{item|眼球突出}}，无特殊效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 330,
+      "tags": [
+        "dmg",
+        "tears",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}会大幅提高射速，并且使角色获得伤害倍率 [[x20%]]",
+          "wrongList": [
+            "x10%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[使{{item|硫磺火}}不需要蓄力]]",
+          "wrongList": [
+            "{{item|硫磺火}}覆盖{{N}}，无特殊效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 331,
+      "tags": [
+        "dmg",
+        "tears",
+        "shots",
+        "luck",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具的解锁条件为：[[用{{chara|游魂}}获得所有困难模式通关标记]]",
+          "wrongList": [
+            "获得所有表角色的困难模式通关标记",
+            "获得所有表角色和里角色的困难模式通关标记"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}不会影响的属性是：[[{{移速}}移速]]",
+          "wrongList": [
+            "{{伤害}}伤害",
+            "{{弹速}}弹速",
+            "{{射速}}射速"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 332,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "角色死亡后会原地复活为 [[{{chara|复活的拉撒路}}]]",
+          "wrongList": [
+            "{{chara|拉撒路}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "如果角色同时拥有{{N}}和{{item|犹大的影子}}，死亡时会优先消耗 [[{{N}}]]",
+          "wrongList": [
+            "{{item|犹大的影子}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 333,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：[[在地图上显示所有房间的位置以及标志]]",
+          "wrongList": [
+            "获得三个心之容器",
+            "在角色周围生成一个能够排斥敌人和敌人的眼泪的光环"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 334,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：[[获得三个心之容器]]",
+          "wrongList": [
+            "在地图上显示所有房间的位置以及标志",
+            "在角色周围生成一个能够排斥敌人和敌人的眼泪的光环"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 335,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：[[在角色周围生成一个能够排斥敌人和敌人的眼泪的光环]]",
+          "wrongList": [
+            "在地图上显示所有房间的位置以及标志",
+            "获得三个心之容器"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 336,
+      "tags": [
+        "shots",
+        "range",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，泪弹会获得 [[灵体]] 效果",
+          "wrongList": [
+            "中毒",
+            "跟踪"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "拾取后，泪弹尺寸会 [[变大]]",
+          "wrongList": [
+            "变小"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 337,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 338,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色可以丢出{{N}}，命中敌人后会 [[使其石化，并造成200%的角色伤害]]",
+          "wrongList": [
+            "使其中毒，并造成200%的角色伤害"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "使用{{N}} [[可以]] 让隐形的{{entity|大恶灵|-64px-432px|boss}}和{{entity|小恶灵|-512px-384px|enemy}}石化",
+          "wrongList": [
+            "不可以"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 339,
+      "tags": [
+        "shots",
+        "range",
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，会获得[[{{health|黑2}}]]",
+          "wrongList": [
+            "{{health|魂2}}",
+            "{{health|红2}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 340,
+      "tags": [
+        "speed",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 341,
+      "tags": [
+        "tears",
+        "shots"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 342,
+      "tags": [
+        "tears",
+        "shots",
+        "hp"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，可以获得一个心之容器、增加{{射速}}射速、[[降低]] {{弹速}}弹速",
+          "wrongList": [
+            "增加"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 343,
+      "tags": [
+        "luck",
+        "hp"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，会获得[[{{health|魂2}}]]",
+          "wrongList": [
+            "{{health|黑2}}",
+            "{{health|红2}}"
+          ]
+        },
+        {
+          "stage": 1,
+          "value": "拾取后，会获得 [[2个]] 钥匙",
+          "wrongList": [
+            "1个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 344,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 1,
+          "value": "拾取后，会获得 [[炸弹]]",
+          "wrongList": [
+            "钥匙"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "拾取后，会获得[[{{health|黑2}}]]",
+          "wrongList": [
+            "{{health|魂2}}",
+            "{{health|红2}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "拾取后，会获得 [[3个]] 随机炸弹",
+          "wrongList": [
+            "2个",
+            "1个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 345,
+      "tags": [
+        "dmg",
+        "range"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 346,
+      "tags": [
+        "hp"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 347,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|车载电池}}搭配，效果为： [[可以复制1份道具和掉落物]]",
+          "wrongList": [
+            "可以复制2份道具和掉落物"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "忏悔版本中，[[不可以]] 复制{{item|收获符文}}",
+          "wrongList": [
+            "可以"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 348,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "触发{{item|运气上升}}药丸时，该道具的充能为：[[6格]]",
+          "wrongList": [
+            "2格",
+            "4格"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 349,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "使用后，会有 [[50%]] 的概率生成1个随机硬币",
+          "wrongList": [
+            "100%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 350,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 351,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，可以石化当前房间所有敌人 [[1秒]]",
+          "wrongList": [
+            "5秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 352,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，可以丢出一个巨大泪弹，造成 [[10 + 1000%角色伤害]] 的伤害",
+          "wrongList": [
+            "10 + 100%角色伤害"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色因为{{room|献祭房}}的地刺受伤后，[[不会]] 使{{N}}破碎",
+          "wrongList": [
+            "会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 353,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|无政府主义者食谱}}搭配，生成的每个即爆炸弹 [[都会超大十字爆炸]]",
+          "wrongList": [
+            "都会正常爆炸",
+            "都会跟踪敌人并爆炸"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "拾取后，会获得 [[5个]] 炸弹",
+          "wrongList": [
+            "99个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 354,
+      "tags": [
+        "hp",
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具的图案是一个 [[爆米花]]",
+          "wrongList": [
+            "炸药桶",
+            "粉笔盒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 355,
+      "tags": [
+        "range",
+        "luck",
+        "hp"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具不会提升的属性是：[[{{伤害}}伤害]]",
+          "wrongList": [
+            "{{射程}}射程",
+            "{{幸运}}幸运"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 356,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|嗝屁猫的爪子}}搭配，效果为：[[无附加效果]]",
+          "wrongList": [
+            "触发两次{{item|嗝屁猫的爪子}}的效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 357,
+      "tags": [
+        "use-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "哪个角色初始携带该道具：[[{{chara|莉莉丝}}]]",
+          "wrongList": [
+            "{{chara|以撒}}",
+            "{{chara|夏娃}}",
+            "{{chara|拉撒路}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 358,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|变异蜘蛛}}搭配，效果为：[[同时向两个斜前方发射3颗泪弹]]",
+          "wrongList": [
+            "同时向两个斜前方发射2颗泪弹",
+            "{{item|变异蜘蛛}}覆盖{{N}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 359,
+      "tags": [
+        "dmg",
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 360,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 2,
+          "value": "哪个角色初始携带该道具：[[{{chara|莉莉丝}}]]",
+          "wrongList": [
+            "{{chara|该隐}}",
+            "{{chara|夏娃}}",
+            "{{chara|拉撒路}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "如果角色不是{{chara|莉莉丝}}，那么{{N}}会造成 [[75%]] 的角色伤害",
+          "wrongList": [
+            "100%",
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 361,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 362,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}是否会有很小的概率生成道具？[[会生成道具]]",
+          "wrongList": [
+            "不会生成道具"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 363,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 364,
+      "tags": [
+        "auto-spec"
+      ],
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 365,
+      "tags": [
+        "auto-spec"
       ],
       "questions": []
     }

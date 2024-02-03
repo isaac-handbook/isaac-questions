@@ -60,15 +60,7 @@
     "hp"
   ],
   "16": [
-    "dmg",
-    "tears",
-    "shots",
-    "range",
-    "luck",
-    "hp",
-    "speed",
-    "auto-spec",
-    "use-spec"
+    "hp"
   ],
   "17": [
     "auto-spec"
@@ -211,14 +203,6 @@
     "auto-spec"
   ],
   "65": [
-    "dmg",
-    "tears",
-    "shots",
-    "range",
-    "luck",
-    "hp",
-    "speed",
-    "auto-spec",
     "use-spec"
   ],
   "66": [
@@ -796,15 +780,7 @@
     "use-spec"
   ],
   "225": [
-    "dmg",
-    "tears",
-    "shots",
-    "range",
-    "luck",
-    "hp",
-    "speed",
-    "auto-spec",
-    "use-spec"
+    "auto-spec"
   ],
   "226": [
     "hp"
@@ -860,5 +836,431 @@
     "luck",
     "hp",
     "speed"
+  ],
+  "241": [
+    "auto-spec"
+  ],
+  "242": [
+    "auto-spec"
+  ],
+  "243": [
+    "auto-spec"
+  ],
+  "244": [
+    "auto-spec"
+  ],
+  "245": [
+    "dmg",
+    "auto-spec"
+  ],
+  "246": [
+    "auto-spec"
+  ],
+  "247": [
+    "auto-spec"
+  ],
+  "248": [
+    "auto-spec"
+  ],
+  "249": [
+    "auto-spec"
+  ],
+  "250": [
+    "auto-spec"
+  ],
+  "251": [
+    "auto-spec"
+  ],
+  "252": [
+    "auto-spec"
+  ],
+  "253": [
+    "luck",
+    "hp"
+  ],
+  "254": [
+    "dmg",
+    "range"
+  ],
+  "255": [
+    "tears",
+    "shots"
+  ],
+  "256": [
+    "auto-spec"
+  ],
+  "258": [
+    "auto-spec"
+  ],
+  "259": [
+    "dmg",
+    "auto-spec"
+  ],
+  "260": [
+    "hp",
+    "auto-spec"
+  ],
+  "261": [
+    "dmg",
+    "auto-spec"
+  ],
+  "262": [
+    "hp",
+    "auto-spec"
+  ],
+  "263": [
+    "auto-spec"
+  ],
+  "264": [
+    "auto-spec"
+  ],
+  "265": [
+    "auto-spec"
+  ],
+  "266": [
+    "auto-spec"
+  ],
+  "267": [
+    "auto-spec"
+  ],
+  "268": [
+    "auto-spec"
+  ],
+  "269": [
+    "auto-spec"
+  ],
+  "270": [
+    "auto-spec"
+  ],
+  "271": [
+    "auto-spec"
+  ],
+  "272": [
+    "auto-spec"
+  ],
+  "273": [
+    "auto-spec"
+  ],
+  "274": [
+    "auto-spec"
+  ],
+  "276": [
+    "auto-spec"
+  ],
+  "277": [
+    "auto-spec"
+  ],
+  "278": [
+    "auto-spec"
+  ],
+  "279": [
+    "auto-spec"
+  ],
+  "280": [
+    "auto-spec"
+  ],
+  "281": [
+    "auto-spec"
+  ],
+  "282": [
+    "use-spec"
+  ],
+  "283": [
+    "use-spec"
+  ],
+  "284": [
+    "use-spec"
+  ],
+  "285": [
+    "use-spec"
+  ],
+  "286": [
+    "use-spec"
+  ],
+  "287": [
+    "use-spec"
+  ],
+  "288": [
+    "use-spec"
+  ],
+  "289": [
+    "use-spec"
+  ],
+  "290": [
+    "use-spec"
+  ],
+  "291": [
+    "use-spec"
+  ],
+  "292": [
+    "hp",
+    "use-spec"
+  ],
+  "293": [
+    "use-spec"
+  ],
+  "294": [
+    "use-spec"
+  ],
+  "295": [
+    "dmg",
+    "use-spec"
+  ],
+  "296": [
+    "hp",
+    "use-spec"
+  ],
+  "297": [
+    "use-spec"
+  ],
+  "298": [
+    "use-spec"
+  ],
+  "299": [
+    "speed",
+    "auto-spec"
+  ],
+  "300": [
+    "speed",
+    "auto-spec"
+  ],
+  "301": [
+    "hp",
+    "auto-spec"
+  ],
+  "302": [
+    "auto-spec"
+  ],
+  "303": [
+    "auto-spec"
+  ],
+  "304": [
+    "dmg",
+    "tears",
+    "range",
+    "speed",
+    "auto-spec"
+  ],
+  "305": [
+    "auto-spec"
+  ],
+  "306": [
+    "speed",
+    "auto-spec"
+  ],
+  "307": [
+    "dmg",
+    "tears",
+    "range",
+    "hp",
+    "speed",
+    "auto-spec"
+  ],
+  "308": [
+    "auto-spec"
+  ],
+  "309": [
+    "tears",
+    "auto-spec"
+  ],
+  "310": [
+    "dmg",
+    "tears",
+    "shots",
+    "auto-spec"
+  ],
+  "311": [
+    "hp",
+    "auto-spec"
+  ],
+  "312": [
+    "hp",
+    "auto-spec"
+  ],
+  "313": [
+    "auto-spec"
+  ],
+  "314": [
+    "hp",
+    "speed",
+    "auto-spec"
+  ],
+  "315": [
+    "auto-spec"
+  ],
+  "316": [
+    "auto-spec"
+  ],
+  "317": [
+    "auto-spec"
+  ],
+  "318": [
+    "auto-spec"
+  ],
+  "319": [
+    "auto-spec"
+  ],
+  "320": [
+    "auto-spec"
+  ],
+  "321": [
+    "auto-spec"
+  ],
+  "322": [
+    "auto-spec"
+  ],
+  "323": [
+    "use-spec"
+  ],
+  "324": [
+    "use-spec"
+  ],
+  "325": [
+    "use-spec"
+  ],
+  "326": [
+    "use-spec"
+  ],
+  "327": [
+    "auto-spec"
+  ],
+  "328": [
+    "auto-spec"
+  ],
+  "329": [
+    "auto-spec"
+  ],
+  "330": [
+    "dmg",
+    "tears",
+    "auto-spec"
+  ],
+  "331": [
+    "dmg",
+    "tears",
+    "shots",
+    "luck",
+    "auto-spec"
+  ],
+  "332": [
+    "hp",
+    "auto-spec"
+  ],
+  "333": [
+    "auto-spec"
+  ],
+  "334": [
+    "hp",
+    "auto-spec"
+  ],
+  "335": [
+    "hp",
+    "auto-spec"
+  ],
+  "336": [
+    "shots",
+    "range",
+    "auto-spec"
+  ],
+  "337": [
+    "auto-spec"
+  ],
+  "338": [
+    "use-spec"
+  ],
+  "339": [
+    "shots",
+    "range",
+    "hp",
+    "auto-spec"
+  ],
+  "340": [
+    "speed",
+    "auto-spec"
+  ],
+  "341": [
+    "tears",
+    "shots"
+  ],
+  "342": [
+    "tears",
+    "shots",
+    "hp"
+  ],
+  "343": [
+    "luck",
+    "hp"
+  ],
+  "344": [
+    "hp",
+    "auto-spec"
+  ],
+  "345": [
+    "dmg",
+    "range"
+  ],
+  "346": [
+    "hp"
+  ],
+  "347": [
+    "use-spec"
+  ],
+  "348": [
+    "use-spec"
+  ],
+  "349": [
+    "use-spec"
+  ],
+  "350": [
+    "auto-spec"
+  ],
+  "351": [
+    "use-spec"
+  ],
+  "352": [
+    "use-spec"
+  ],
+  "353": [
+    "auto-spec"
+  ],
+  "354": [
+    "hp",
+    "auto-spec"
+  ],
+  "355": [
+    "range",
+    "luck",
+    "hp"
+  ],
+  "356": [
+    "use-spec"
+  ],
+  "357": [
+    "use-spec"
+  ],
+  "358": [
+    "auto-spec"
+  ],
+  "359": [
+    "dmg",
+    "auto-spec"
+  ],
+  "360": [
+    "auto-spec"
+  ],
+  "361": [
+    "auto-spec"
+  ],
+  "362": [
+    "auto-spec"
+  ],
+  "363": [
+    "auto-spec"
+  ],
+  "364": [
+    "auto-spec"
+  ],
+  "365": [
+    "auto-spec"
   ]
 }
