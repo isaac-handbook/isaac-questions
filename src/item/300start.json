@@ -1,0 +1,852 @@
+[
+  {
+    "type": "item",
+    "id": 300,
+    "tags": [
+      "speed",
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 301,
+    "tags": [
+      "hp",
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 302,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "拾取后，碰到可推动炸药桶 [[会]] 使其爆炸",
+        "wrongList": [
+          "不会"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 303,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "当{{幸运}}幸运为10点以上时，每当角色受到伤害时，100%会 [[触发{{item|影之书}}的效果]]",
+        "wrongList": [
+          "触发{{item|彩虹独角兽}}的效果",
+          "触发{{item|游戏掌机}}的效果"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 304,
+    "tags": [
+      "dmg",
+      "tears",
+      "range",
+      "speed",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "拾取后，可以立刻获得 [[6]] 个硬币、炸弹和钥匙",
+        "wrongList": [
+          "3"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 305,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 2,
+        "value": "拾取后，角色发射 [[毒性]] 泪弹",
+        "wrongList": [
+          "恐惧",
+          "石化"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 306,
+    "tags": [
+      "speed",
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 307,
+    "tags": [
+      "dmg",
+      "tears",
+      "range",
+      "hp",
+      "speed",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "{{N}}不会提升的属性是：[[{{弹速}}弹速]]",
+        "wrongList": [
+          "{{伤害}}伤害",
+          "{{移速}}移速",
+          "{{射速}}射速",
+          "{{射程}}射程"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 308,
+    "tags": [
+      "auto-spec"
+    ],
+    "questions": []
+  },
+  {
+    "type": "item",
+    "id": 309,
+    "tags": [
+      "tears",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "该道具的效果为：[[泪弹的击退效果增强]]",
+        "wrongList": [
+          "角色发射毒性泪弹",
+          "角色移动会留下水迹"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 310,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "拾取后，伤害倍率 x[[200%]]",
+        "wrongList": [
+          "150%"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 311,
+    "tags": [
+      "hp",
+      "auto-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "当角色死亡时，任务在上一房间复活为{{chara|犹大之影}}，并获得伤害倍率 x[[200%]]",
+        "wrongList": [
+          "150%"
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "当角色为{{chara|堕化犹大}}时，角色死亡后会复活为 [[自身]]",
+        "wrongList": [
+          "{{chara|犹大之影}}"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "item",
+    "id": 312,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+  {
+    "type": "item",
+    "id": 3,
+    "tags": [
+      "dmg",
+      "tears",
+      "shots",
+      "range",
+      "luck",
+      "hp",
+      "speed",
+      "auto-spec",
+      "use-spec"
+    ],
+    "questions": [
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+      {
+        "stage": 3,
+        "value": "[[]]",
+        "wrongList": [
+          "",
+          ""
+        ]
+      },
+    ]
+  },
+]
