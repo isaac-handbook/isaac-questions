@@ -4,9 +4,6 @@
     {
       "type": "item",
       "id": 1,
-      "tags": [
-        "tears"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -21,9 +18,6 @@
     {
       "type": "item",
       "id": 2,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -71,9 +65,6 @@
     {
       "type": "item",
       "id": 3,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -96,10 +87,6 @@
     {
       "type": "item",
       "id": 4,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -122,14 +109,6 @@
     {
       "type": "item",
       "id": 5,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -152,10 +131,6 @@
     {
       "type": "item",
       "id": 6,
-      "tags": [
-        "shots",
-        "range"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -185,9 +160,6 @@
     {
       "type": "item",
       "id": 7,
-      "tags": [
-        "dmg"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -202,9 +174,6 @@
     {
       "type": "item",
       "id": 8,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -219,9 +188,6 @@
     {
       "type": "item",
       "id": 9,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -243,18 +209,11 @@
     {
       "type": "item",
       "id": 10,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 11,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -277,14 +236,6 @@
     {
       "type": "item",
       "id": 12,
-      "tags": [
-        "dmg",
-        "tears",
-        "range",
-        "hp",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -308,10 +259,6 @@
     {
       "type": "item",
       "id": 13,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -330,18 +277,11 @@
     {
       "type": "item",
       "id": 14,
-      "tags": [
-        "range",
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 15,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -360,9 +300,6 @@
     {
       "type": "item",
       "id": 16,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -376,17 +313,11 @@
     {
       "type": "item",
       "id": 17,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 18,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -401,9 +332,6 @@
     {
       "type": "item",
       "id": 19,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -418,17 +346,11 @@
     {
       "type": "item",
       "id": 20,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 21,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -443,25 +365,16 @@
     {
       "type": "item",
       "id": 22,
-      "tags": [
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 23,
-      "tags": [
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 24,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -477,17 +390,11 @@
     {
       "type": "item",
       "id": 25,
-      "tags": [
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 26,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -503,57 +410,36 @@
     {
       "type": "item",
       "id": 27,
-      "tags": [
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 28,
-      "tags": [
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 29,
-      "tags": [
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 30,
-      "tags": [
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 31,
-      "tags": [
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 32,
-      "tags": [
-        "tears"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 33,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -569,17 +455,11 @@
     {
       "type": "item",
       "id": 34,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 35,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -593,9 +473,6 @@
     {
       "type": "item",
       "id": 36,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -611,9 +488,6 @@
     {
       "type": "item",
       "id": 37,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -632,9 +506,6 @@
     {
       "type": "item",
       "id": 38,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -649,9 +520,6 @@
     {
       "type": "item",
       "id": 39,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -666,9 +534,6 @@
     {
       "type": "item",
       "id": 40,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -689,17 +554,11 @@
     {
       "type": "item",
       "id": 41,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 42,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -718,9 +577,6 @@
     {
       "type": "item",
       "id": 44,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -734,10 +590,6 @@
     {
       "type": "item",
       "id": 45,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -753,10 +605,6 @@
     {
       "type": "item",
       "id": 46,
-      "tags": [
-        "luck",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -779,25 +627,16 @@
     {
       "type": "item",
       "id": 47,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 48,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 49,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -823,18 +662,11 @@
     {
       "type": "item",
       "id": 50,
-      "tags": [
-        "dmg"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 51,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -849,9 +681,6 @@
     {
       "type": "item",
       "id": 52,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -882,25 +711,16 @@
     {
       "type": "item",
       "id": 53,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 54,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 55,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -914,25 +734,16 @@
     {
       "type": "item",
       "id": 56,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 57,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 58,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -947,9 +758,6 @@
     {
       "type": "item",
       "id": 60,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -963,11 +771,6 @@
     {
       "type": "item",
       "id": 62,
-      "tags": [
-        "dmg",
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -982,17 +785,11 @@
     {
       "type": "item",
       "id": 63,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 64,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1011,9 +808,6 @@
     {
       "type": "item",
       "id": 65,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1040,17 +834,11 @@
     {
       "type": "item",
       "id": 66,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 67,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1065,9 +853,6 @@
     {
       "type": "item",
       "id": 68,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1091,29 +876,16 @@
     {
       "type": "item",
       "id": 69,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 70,
-      "tags": [
-        "dmg",
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 71,
-      "tags": [
-        "range",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -1145,11 +917,6 @@
     {
       "type": "item",
       "id": 72,
-      "tags": [
-        "hp",
-        "shots",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1174,17 +941,11 @@
     {
       "type": "item",
       "id": 73,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 74,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -1199,9 +960,6 @@
     {
       "type": "item",
       "id": 75,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1216,17 +974,11 @@
     {
       "type": "item",
       "id": 76,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 77,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1240,10 +992,6 @@
     {
       "type": "item",
       "id": 78,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -1288,11 +1036,6 @@
     {
       "type": "item",
       "id": 79,
-      "tags": [
-        "dmg",
-        "hp",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1315,11 +1058,6 @@
     {
       "type": "item",
       "id": 80,
-      "tags": [
-        "dmg",
-        "tears",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1334,10 +1072,6 @@
     {
       "type": "item",
       "id": 81,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -1374,21 +1108,11 @@
     {
       "type": "item",
       "id": 82,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 83,
-      "tags": [
-        "dmg",
-        "hp",
-        "speed",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1403,33 +1127,21 @@
     {
       "type": "item",
       "id": 84,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 85,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 86,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 87,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1450,17 +1162,11 @@
     {
       "type": "item",
       "id": 88,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 89,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1475,11 +1181,6 @@
     {
       "type": "item",
       "id": 90,
-      "tags": [
-        "dmg",
-        "tears",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1494,9 +1195,6 @@
     {
       "type": "item",
       "id": 91,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1511,9 +1209,6 @@
     {
       "type": "item",
       "id": 92,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1528,9 +1223,6 @@
     {
       "type": "item",
       "id": 93,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1544,25 +1236,16 @@
     {
       "type": "item",
       "id": 94,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 95,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 96,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1586,9 +1269,6 @@
     {
       "type": "item",
       "id": 97,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1607,10 +1287,6 @@
     {
       "type": "item",
       "id": 98,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1625,17 +1301,11 @@
     {
       "type": "item",
       "id": 99,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 100,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1650,13 +1320,6 @@
     {
       "type": "item",
       "id": 101,
-      "tags": [
-        "dmg",
-        "tears",
-        "range",
-        "hp",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1673,17 +1336,11 @@
     {
       "type": "item",
       "id": 102,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 103,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1706,9 +1363,6 @@
     {
       "type": "item",
       "id": 104,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1747,9 +1401,6 @@
     {
       "type": "item",
       "id": 105,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1765,9 +1416,6 @@
     {
       "type": "item",
       "id": 106,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1781,9 +1429,6 @@
     {
       "type": "item",
       "id": 107,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1797,9 +1442,6 @@
     {
       "type": "item",
       "id": 108,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1821,9 +1463,6 @@
     {
       "type": "item",
       "id": 109,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1846,10 +1485,6 @@
     {
       "type": "item",
       "id": 110,
-      "tags": [
-        "range",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1866,9 +1501,6 @@
     {
       "type": "item",
       "id": 111,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1883,25 +1515,16 @@
     {
       "type": "item",
       "id": 112,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 113,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 114,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1939,10 +1562,6 @@
     {
       "type": "item",
       "id": 115,
-      "tags": [
-        "tears",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1958,9 +1577,6 @@
     {
       "type": "item",
       "id": 116,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -1975,9 +1591,6 @@
     {
       "type": "item",
       "id": 117,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -1993,9 +1606,6 @@
     {
       "type": "item",
       "id": 118,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2042,11 +1652,6 @@
     {
       "type": "item",
       "id": 119,
-      "tags": [
-        "hp",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2071,22 +1676,11 @@
     {
       "type": "item",
       "id": 120,
-      "tags": [
-        "dmg",
-        "tears",
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 121,
-      "tags": [
-        "dmg",
-        "range",
-        "hp",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2100,11 +1694,6 @@
     {
       "type": "item",
       "id": 122,
-      "tags": [
-        "dmg",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2134,9 +1723,6 @@
     {
       "type": "item",
       "id": 123,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2150,9 +1736,6 @@
     {
       "type": "item",
       "id": 124,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2166,9 +1749,6 @@
     {
       "type": "item",
       "id": 125,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2183,10 +1763,6 @@
     {
       "type": "item",
       "id": 126,
-      "tags": [
-        "dmg",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2208,26 +1784,16 @@
     {
       "type": "item",
       "id": 127,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 128,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 129,
-      "tags": [
-        "hp",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2242,18 +1808,11 @@
     {
       "type": "item",
       "id": 130,
-      "tags": [
-        "speed",
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 131,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2268,19 +1827,11 @@
     {
       "type": "item",
       "id": 132,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 133,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2303,9 +1854,6 @@
     {
       "type": "item",
       "id": 134,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2320,10 +1868,6 @@
     {
       "type": "item",
       "id": 135,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2337,42 +1881,26 @@
     {
       "type": "item",
       "id": 136,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 137,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 138,
-      "tags": [
-        "dmg",
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 139,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 140,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2387,9 +1915,6 @@
     {
       "type": "item",
       "id": 141,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2404,10 +1929,6 @@
     {
       "type": "item",
       "id": 142,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2435,10 +1956,6 @@
     {
       "type": "item",
       "id": 143,
-      "tags": [
-        "shots",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2454,17 +1971,11 @@
     {
       "type": "item",
       "id": 144,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 145,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2479,10 +1990,6 @@
     {
       "type": "item",
       "id": 146,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2498,17 +2005,11 @@
     {
       "type": "item",
       "id": 147,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 148,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2523,17 +2024,6 @@
     {
       "type": "item",
       "id": 149,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed",
-        "auto-spec",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2548,10 +2038,6 @@
     {
       "type": "item",
       "id": 150,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2573,9 +2059,6 @@
     {
       "type": "item",
       "id": 151,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2590,25 +2073,11 @@
     {
       "type": "item",
       "id": 152,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 153,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed",
-        "auto-spec",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2624,34 +2093,21 @@
     {
       "type": "item",
       "id": 154,
-      "tags": [
-        "dmg"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 155,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 156,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 157,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2667,9 +2123,6 @@
     {
       "type": "item",
       "id": 158,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2684,17 +2137,11 @@
     {
       "type": "item",
       "id": 159,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 160,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2709,10 +2156,6 @@
     {
       "type": "item",
       "id": 161,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2728,82 +2171,51 @@
     {
       "type": "item",
       "id": 162,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 163,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 164,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 165,
-      "tags": [
-        "dmg",
-        "shots"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 166,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 167,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 168,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 169,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 170,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 171,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2818,18 +2230,11 @@
     {
       "type": "item",
       "id": 172,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 173,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2844,51 +2249,31 @@
     {
       "type": "item",
       "id": 174,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 175,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 176,
-      "tags": [
-        "shots",
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 177,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 178,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 179,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -2903,18 +2288,11 @@
     {
       "type": "item",
       "id": 180,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 181,
-      "tags": [
-        "auto-spec",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2931,13 +2309,6 @@
     {
       "type": "item",
       "id": 182,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2952,10 +2323,6 @@
     {
       "type": "item",
       "id": 183,
-      "tags": [
-        "tears",
-        "shots"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -2970,26 +2337,16 @@
     {
       "type": "item",
       "id": 184,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 185,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 186,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3003,30 +2360,16 @@
     {
       "type": "item",
       "id": 187,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 188,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 189,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "hp",
-        "speed"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3041,9 +2384,6 @@
     {
       "type": "item",
       "id": 190,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3058,18 +2398,11 @@
     {
       "type": "item",
       "id": 191,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 192,
-      "tags": [
-        "range",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3084,10 +2417,6 @@
     {
       "type": "item",
       "id": 193,
-      "tags": [
-        "dmg",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3102,10 +2431,6 @@
     {
       "type": "item",
       "id": 194,
-      "tags": [
-        "shots",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3120,9 +2445,6 @@
     {
       "type": "item",
       "id": 195,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3137,10 +2459,6 @@
     {
       "type": "item",
       "id": 196,
-      "tags": [
-        "tears",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3155,26 +2473,16 @@
     {
       "type": "item",
       "id": 197,
-      "tags": [
-        "dmg",
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 198,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 199,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3189,9 +2497,6 @@
     {
       "type": "item",
       "id": 200,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3205,10 +2510,6 @@
     {
       "type": "item",
       "id": 201,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3230,25 +2531,16 @@
     {
       "type": "item",
       "id": 202,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 203,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 204,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3264,9 +2556,6 @@
     {
       "type": "item",
       "id": 205,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3287,28 +2576,16 @@
     {
       "type": "item",
       "id": 206,
-      "tags": [
-        "dmg",
-        "tears",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 207,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 208,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3323,25 +2600,16 @@
     {
       "type": "item",
       "id": 209,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 210,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 211,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3355,10 +2623,6 @@
     {
       "type": "item",
       "id": 212,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3373,19 +2637,11 @@
     {
       "type": "item",
       "id": 213,
-      "tags": [
-        "shots",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 214,
-      "tags": [
-        "range",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3401,18 +2657,11 @@
     {
       "type": "item",
       "id": 215,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 216,
-      "tags": [
-        "dmg",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3426,10 +2675,6 @@
     {
       "type": "item",
       "id": 217,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3443,9 +2688,6 @@
     {
       "type": "item",
       "id": 218,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3460,10 +2702,6 @@
     {
       "type": "item",
       "id": 219,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3485,26 +2723,16 @@
     {
       "type": "item",
       "id": 220,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 221,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 222,
-      "tags": [
-        "tears",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3519,9 +2747,6 @@
     {
       "type": "item",
       "id": 223,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3535,19 +2760,11 @@
     {
       "type": "item",
       "id": 224,
-      "tags": [
-        "tears",
-        "range",
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 225,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3569,9 +2786,6 @@
     {
       "type": "item",
       "id": 226,
-      "tags": [
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3586,18 +2800,11 @@
     {
       "type": "item",
       "id": 227,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 228,
-      "tags": [
-        "tears",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3613,9 +2820,6 @@
     {
       "type": "item",
       "id": 229,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3630,11 +2834,6 @@
     {
       "type": "item",
       "id": 230,
-      "tags": [
-        "dmg",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3650,9 +2849,6 @@
     {
       "type": "item",
       "id": 231,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3668,23 +2864,15 @@
     {
       "type": "item",
       "id": 232,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 233,
-      "tags": [
-        "range",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
-          "value": "与{{item|硫磺火}}搭配使用，效果为：[[献血激光柱会环绕角色一圈再向前发射]]",
+          "value": "与{{item|硫磺火}}搭配使用，效果为：[[鲜血激光柱会环绕角色一圈再向前发射]]",
           "wrongList": [
             "{{N}}会覆盖{{item|硫磺火}}",
             "{{item|硫磺火}}会覆盖{{N}}"
@@ -3695,9 +2883,6 @@
     {
       "type": "item",
       "id": 234,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3711,9 +2896,6 @@
     {
       "type": "item",
       "id": 236,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3727,19 +2909,11 @@
     {
       "type": "item",
       "id": 237,
-      "tags": [
-        "dmg",
-        "tears",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 238,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3754,9 +2928,6 @@
     {
       "type": "item",
       "id": 239,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3771,23 +2942,11 @@
     {
       "type": "item",
       "id": 240,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "range",
-        "luck",
-        "hp",
-        "speed"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 241,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3801,9 +2960,6 @@
     {
       "type": "item",
       "id": 242,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3818,9 +2974,6 @@
     {
       "type": "item",
       "id": 243,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3835,18 +2988,11 @@
     {
       "type": "item",
       "id": 244,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 245,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3861,17 +3007,11 @@
     {
       "type": "item",
       "id": 246,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 247,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3885,9 +3025,6 @@
     {
       "type": "item",
       "id": 248,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3901,9 +3038,6 @@
     {
       "type": "item",
       "id": 249,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3917,9 +3051,6 @@
     {
       "type": "item",
       "id": 250,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -3935,9 +3066,6 @@
     {
       "type": "item",
       "id": 251,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3951,9 +3079,6 @@
     {
       "type": "item",
       "id": 252,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -3967,53 +3092,31 @@
     {
       "type": "item",
       "id": 253,
-      "tags": [
-        "luck",
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 254,
-      "tags": [
-        "dmg",
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 255,
-      "tags": [
-        "tears",
-        "shots"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 256,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 258,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 259,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4029,10 +3132,6 @@
     {
       "type": "item",
       "id": 260,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4047,10 +3146,6 @@
     {
       "type": "item",
       "id": 261,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4065,10 +3160,6 @@
     {
       "type": "item",
       "id": 262,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4082,25 +3173,16 @@
     {
       "type": "item",
       "id": 263,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 264,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 265,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4115,57 +3197,36 @@
     {
       "type": "item",
       "id": 266,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 267,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 268,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 269,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 270,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 271,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 272,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4179,9 +3240,6 @@
     {
       "type": "item",
       "id": 273,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4195,41 +3253,26 @@
     {
       "type": "item",
       "id": 274,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 2,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 276,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 277,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 278,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -4252,17 +3295,11 @@
     {
       "type": "item",
       "id": 279,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 280,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -4276,17 +3313,11 @@
     {
       "type": "item",
       "id": 281,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 282,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4300,9 +3331,6 @@
     {
       "type": "item",
       "id": 283,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4323,33 +3351,21 @@
     {
       "type": "item",
       "id": 284,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 285,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 286,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 287,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4363,9 +3379,6 @@
     {
       "type": "item",
       "id": 288,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4379,9 +3392,6 @@
     {
       "type": "item",
       "id": 289,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4395,9 +3405,6 @@
     {
       "type": "item",
       "id": 290,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -4418,18 +3425,11 @@
     {
       "type": "item",
       "id": 291,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 292,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4443,26 +3443,16 @@
     {
       "type": "item",
       "id": 293,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 294,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 295,
-      "tags": [
-        "dmg",
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4476,18 +3466,11 @@
     {
       "type": "item",
       "id": 296,
-      "tags": [
-        "hp",
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 297,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4501,9 +3484,6 @@
     {
       "type": "item",
       "id": 298,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4517,36 +3497,21 @@
     {
       "type": "item",
       "id": 299,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 300,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 301,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 302,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4560,9 +3525,6 @@
     {
       "type": "item",
       "id": 303,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4577,13 +3539,6 @@
     {
       "type": "item",
       "id": 304,
-      "tags": [
-        "dmg",
-        "tears",
-        "range",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4597,9 +3552,6 @@
     {
       "type": "item",
       "id": 305,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -4614,23 +3566,11 @@
     {
       "type": "item",
       "id": 306,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 307,
-      "tags": [
-        "dmg",
-        "tears",
-        "range",
-        "hp",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4647,18 +3587,11 @@
     {
       "type": "item",
       "id": 308,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 309,
-      "tags": [
-        "tears",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4673,12 +3606,6 @@
     {
       "type": "item",
       "id": 310,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4692,10 +3619,6 @@
     {
       "type": "item",
       "id": 311,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4716,18 +3639,11 @@
     {
       "type": "item",
       "id": 312,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 313,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4742,11 +3658,6 @@
     {
       "type": "item",
       "id": 314,
-      "tags": [
-        "hp",
-        "speed",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -4760,17 +3671,11 @@
     {
       "type": "item",
       "id": 315,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 316,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4791,89 +3696,56 @@
     {
       "type": "item",
       "id": 317,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 318,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 319,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 320,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 321,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 322,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 323,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 324,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 325,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 326,
-      "tags": [
-        "use-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 327,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4887,9 +3759,6 @@
     {
       "type": "item",
       "id": 328,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4903,9 +3772,6 @@
     {
       "type": "item",
       "id": 329,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4961,11 +3827,6 @@
     {
       "type": "item",
       "id": 330,
-      "tags": [
-        "dmg",
-        "tears",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -4986,13 +3847,6 @@
     {
       "type": "item",
       "id": 331,
-      "tags": [
-        "dmg",
-        "tears",
-        "shots",
-        "luck",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5016,10 +3870,6 @@
     {
       "type": "item",
       "id": 332,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5040,9 +3890,6 @@
     {
       "type": "item",
       "id": 333,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5057,10 +3904,6 @@
     {
       "type": "item",
       "id": 334,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5075,10 +3918,6 @@
     {
       "type": "item",
       "id": 335,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5093,11 +3932,6 @@
     {
       "type": "item",
       "id": 336,
-      "tags": [
-        "shots",
-        "range",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5119,17 +3953,11 @@
     {
       "type": "item",
       "id": 337,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 338,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5150,12 +3978,6 @@
     {
       "type": "item",
       "id": 339,
-      "tags": [
-        "shots",
-        "range",
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5170,29 +3992,16 @@
     {
       "type": "item",
       "id": 340,
-      "tags": [
-        "speed",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 341,
-      "tags": [
-        "tears",
-        "shots"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 342,
-      "tags": [
-        "tears",
-        "shots",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5206,10 +4015,6 @@
     {
       "type": "item",
       "id": 343,
-      "tags": [
-        "luck",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5231,10 +4036,6 @@
     {
       "type": "item",
       "id": 344,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 1,
@@ -5264,26 +4065,16 @@
     {
       "type": "item",
       "id": 345,
-      "tags": [
-        "dmg",
-        "range"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 346,
-      "tags": [
-        "hp"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 347,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5304,9 +4095,6 @@
     {
       "type": "item",
       "id": 348,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5321,9 +4109,6 @@
     {
       "type": "item",
       "id": 349,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5337,17 +4122,11 @@
     {
       "type": "item",
       "id": 350,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 351,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5361,9 +4140,6 @@
     {
       "type": "item",
       "id": 352,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5384,9 +4160,6 @@
     {
       "type": "item",
       "id": 353,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5408,10 +4181,6 @@
     {
       "type": "item",
       "id": 354,
-      "tags": [
-        "hp",
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5426,11 +4195,6 @@
     {
       "type": "item",
       "id": 355,
-      "tags": [
-        "range",
-        "luck",
-        "hp"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5445,9 +4209,6 @@
     {
       "type": "item",
       "id": 356,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5461,9 +4222,6 @@
     {
       "type": "item",
       "id": 357,
-      "tags": [
-        "use-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5479,9 +4237,6 @@
     {
       "type": "item",
       "id": 358,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5496,18 +4251,11 @@
     {
       "type": "item",
       "id": 359,
-      "tags": [
-        "dmg",
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 360,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 2,
@@ -5531,17 +4279,11 @@
     {
       "type": "item",
       "id": 361,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 362,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": [
         {
           "stage": 3,
@@ -5555,26 +4297,2357 @@
     {
       "type": "item",
       "id": 363,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 364,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
     },
     {
       "type": "item",
       "id": 365,
-      "tags": [
-        "auto-spec"
-      ],
       "questions": []
-    }
+    },
+    {
+      "type": "item",
+      "id": 366,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：炸弹爆炸后，生成 [[4~5个]] 小炸弹",
+          "wrongList": [
+            "2~3个",
+            "6~7个"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "该道具生成的小炸弹会造成 [[50%]] 的炸弹伤害",
+          "wrongList": [
+            "100%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 367,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 368,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 369,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[血激光柱会穿过房间墙壁并从房间的另一端再次出现]]",
+          "wrongList": [
+            "{{item|硫磺火}}覆盖{{N}}，无特殊效果"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 370,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}不会影响的属性是：[[{{移速}}移速]]",
+          "wrongList": [
+            "{{射程}}射程",
+            "{{射速}}射速"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "拾取后，会获得 [[3个]] 红心、魂心或黑心",
+          "wrongList": [
+            "2个",
+            "1个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 371,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：每当角色受到伤害，生成[[6个]] 即爆炸弹",
+          "wrongList": [
+            "3个",
+            "9个"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "角色受到献血机的伤害后，[[不会]] 触发{{N}}的效果",
+          "wrongList": [
+            "会"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "角色受到献祭房的地刺的伤害后，[[不会]] 触发{{N}}的效果",
+          "wrongList": [
+            "会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 372,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 373,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[{{item|硫磺火}}覆盖{{N}}]]",
+          "wrongList": [
+            "硫磺火连续命中敌人越久，伤害越高"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 374,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每道光柱会造成 [[300%]] 的角色伤害",
+          "wrongList": [
+            "200%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色有概率发射圣光泪弹。当角色的{{幸运}}幸运为0时，发射圣光泪弹的概率为：[[10%]]",
+          "wrongList": [
+            "20%",
+            ""
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "当角色拥有9点{{幸运}}幸运时，发射圣光泪弹的概率达到最大值：[[50%]]",
+          "wrongList": [
+            "100%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 375,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}有 [[20%]] 的概率阻挡敌人的泪弹，并发射3颗泪弹",
+          "wrongList": [
+            "10%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 376,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色花15块购买一个道具后，补货出来的道具需要花费：[[17块]]",
+          "wrongList": [
+            "21块"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色花17块购买一个道具后，补货出来的道具需要花费：[[21块]]",
+          "wrongList": [
+            "19块"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色花21块购买一个道具后，补货出来的道具需要花费：[[27块]]",
+          "wrongList": [
+            "25块"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色花3块购买一颗红心后，补货出来的道具需要花费：[[4块]]",
+          "wrongList": [
+            "5块"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色花4块购买一颗红心后，补货出来的道具需要花费：[[6块]]",
+          "wrongList": [
+            "5块"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "角色花6块购买一颗红心后，补货出来的道具需要花费：[[9块]]",
+          "wrongList": [
+            "8块"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 377,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 378,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色按住射击键 [[3秒]] 后，掉落1个{{file|Entity_4.9.png|点燃的炸弹*屁股炸弹}}屁股炸弹",
+          "wrongList": [
+            "2秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 379,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 380,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，会立即获得 [[5个]] 硬币",
+          "wrongList": [
+            "25个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 381,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，可以增加角色的{{射速}}射速",
+          "wrongList": [
+            "{{射程}}射程",
+            "{{伤害}}伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 382,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 383,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 384,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 385,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "1级的{{N}}的外观为 [[{{file|Bumbolevel1.png}}]]",
+          "wrongList": [
+            "{{file|Bumbolevel2.png}}",
+            "{{file|Bumbolevel3.png}}"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "4级的{{N}}的外观为 [[{{file|Bumbolevel4.png}}]]",
+          "wrongList": [
+            "{{file|Bumbolevel2.png}}",
+            "{{file|Bumbolevel3.png}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "2级的{{N}}的外观为 [[{{file|Bumbolevel2.png}}]]",
+          "wrongList": [
+            "{{file|Bumbolevel1.png}}",
+            "{{file|Bumbolevel3.png}}",
+            "{{file|Bumbolevel4.png}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "3级的{{N}}的外观为 [[{{file|Bumbolevel3.png}}]]",
+          "wrongList": [
+            "{{file|Bumbolevel2.png}}",
+            "{{file|Bumbolevel4.png}}",
+            "{{file|Bumbolevel1.png}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 386,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 387,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 388,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}拾取金钥匙后，会：[[别想骗我，它不会拾取金钥匙]]",
+          "wrongList": [
+            "效果同拾取一个普通钥匙",
+            "立即生成1个箱子"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 389,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}跟随角色，每清理 [[7~8个]] 房间就会生成1个随机符文",
+          "wrongList": [
+            "4~5个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 390,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "{{N}}的泪弹具有 [[跟踪]] 效果",
+          "wrongList": [
+            "石化",
+            "中毒"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}的泪弹伤害为 [[10点]]",
+          "wrongList": [
+            "5点"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 391,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 392,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色 [[每层]] 会获得1个随机十二星座的效果",
+          "wrongList": [
+            "每个房间"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 393,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具有概率使击中的敌人 [[中毒]]",
+          "wrongList": [
+            "石化",
+            "恐惧"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 394,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具可以增加哪个属性？[[{{射程}}射程]]",
+          "wrongList": [
+            "{{伤害}}伤害",
+            "{{射速}}射速"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 395,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[可以蓄力发射鲜血激光环]]",
+          "wrongList": [
+            "{{item|硫磺火}}覆盖{{N}}",
+            "{{N}}覆盖{{item|硫磺火}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 396,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 397,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}不会提升的属性是：[[{{伤害}}伤害]]",
+          "wrongList": [
+            "{{射程}}射程",
+            "{{弹速}}弹速"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 398,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色有10%的概率发射 [[缩小]] 泪弹",
+          "wrongList": [
+            "石化",
+            "魅惑"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 399,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "黑色血激光环的持续时间为 [[2秒]]",
+          "wrongList": [
+            "1秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 400,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 401,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：角色有25%的概率发射 [[粘性爆炸]] 的泪弹",
+          "wrongList": [
+            "立即爆炸"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 402,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取{{N}}后，若恶魔交易中出现了天使房道具池道具，则该交易需要 [[一个心之容器]]",
+          "wrongList": [
+            "两个心之容器",
+            "不同的道具需要不同数量的心之容器数量"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 403,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 404,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 405,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 406,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用{{N}}后，一定不会改变的属性是：[[{{幸运}}幸运]]",
+          "wrongList": [
+            "{{射速}}射速",
+            "{{射程}}射程",
+            "{{伤害}}伤害",
+            "{{移速}}移速"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 407,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当角色发出红色光环时，提升的属性为：{{伤害}}伤害",
+          "wrongList": [
+            "{{射速}}射速",
+            "{{移速}}移速",
+            "{{射程}}射程"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色发出蓝色光环时，提升的属性为：{{射速}}射速",
+          "wrongList": [
+            "{{伤害}}伤害",
+            "{{移速}}移速",
+            "{{射程}}射程"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色发出黄色光环时，提升的属性为：{{移速}}移速",
+          "wrongList": [
+            "{{射速}}射速",
+            "{{伤害}}伤害",
+            "{{射程}}射程"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色发出橙色光环时，提升的属性为：{{射程}}射程",
+          "wrongList": [
+            "{{射速}}射速",
+            "{{移速}}移速",
+            "{{伤害}}伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 408,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 409,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 410,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 411,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色消灭敌人后，在当前房间中，角色获得伤害 [[+0.5]]",
+          "wrongList": [
+            "+1"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "每当消灭敌人后，在当前房间中，获得伤害+0.5。该效果一个房间可触发 [[10次]]",
+          "wrongList": [
+            "5次"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 412,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "哪个角色初始携带该道具：[[{{chara|莉莉丝}}]]",
+          "wrongList": [
+            "{{chara|抹大拉}}",
+            "{{chara|夏娃}}",
+            "{{chara|拉撒路}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色受到第15、30、60或 [[90]] 次的伤害时，生成一个恶魔跟班",
+          "wrongList": [
+            "120"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 413,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "{{N}}不会生成的跟班有：[[{{item|硫磺火宝宝}}]]",
+          "wrongList": [
+            "{{item|守护天使}}",
+            "{{item|撒拉弗}}",
+            "{{item|宣誓守护者}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 414,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：使得 [[{{room|宝箱房}}]] 的道具变为二选一",
+          "wrongList": [
+            "{{room|头目房}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 415,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当{{N}}处于激活状态时，角色的伤害倍率 [[x200%]]",
+          "wrongList": [
+            "x150%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 416,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 417,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色在{{N}}光环内时，伤害倍率 [[x150%]]",
+          "wrongList": [
+            "x200%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 418,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 419,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 420,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}生成的魔法阵会对敌人造成 [[每秒3次10点伤害]]",
+          "wrongList": [
+            "每秒3次100点伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 421,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，角色放一个屁，魅惑附近的敌人，并 [[持续5秒]]",
+          "wrongList": [
+            "持续到怪物死亡"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 422,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "{{N}}的后悔效果在每层最多使用 [[3]] 次",
+          "wrongList": [
+            "2",
+            "1"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "在第一层的初始房间使用该道具，会使角色到达 [[{{stage|家}}]]",
+          "wrongList": [
+            "{{stage|玩具箱}}",
+            "{{stage|虚空}}",
+            "{{stage|暗室}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 423,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 424,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 425,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 426,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}对触碰到的敌人造成 [[每秒15次2点伤害]]",
+          "wrongList": [
+            "每秒15次20点伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 427,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 4,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，会使角色获得 [[4个]] 魂心",
+          "wrongList": [
+            "3个",
+            "5个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 429,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色泪弹击中敌人时，有 [[5%]] 的概率生成1个硬币",
+          "wrongList": [
+            "1%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 430,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 431,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}沿角色 [[0.66秒前]] 的轨迹移动",
+          "wrongList": [
+            "2秒前"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 432,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 433,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 434,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色消灭 [[一个]] 敌人时，{{N}}获得1只蓝苍蝇",
+          "wrongList": [
+            "两个"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "每当角色消灭一个敌人时，{{N}}获得1只蓝苍蝇，最多 [[20]] 只",
+          "wrongList": [
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 435,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 436,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：每当角色受到伤害，在当前房间内增加 [[{{射速}}射速]]",
+          "wrongList": [
+            "{{伤害}}伤害",
+            "{{射程}}射程"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 437,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 438,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "拾取后，会使角色获得 [[1个]] 魂心",
+          "wrongList": [
+            "2个",
+            "3个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 439,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 440,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 441,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}的巨型鲜血激光柱的持续时间为：[[15秒]]",
+          "wrongList": [
+            "10秒"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}的巨型鲜血激光柱造成的伤害为：[[每秒15次500%的角色伤害]]",
+          "wrongList": [
+            "每秒15次100%的角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 442,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当{{N}}处于激活状态时，角色不会提高的属性是：[[{{伤害}}伤害]]",
+          "wrongList": [
+            "{{射速}}射速",
+            "{{射程}}射程",
+            "{{弹速}}弹速"
+          ]
+        },
+        {
+          "stage": 2,
+          "value": "{{N}}的激活条件为：[[角色的红心为一颗]]",
+          "wrongList": [
+            "角色没有红心"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 443,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "拾取后，可以提升角色的 [[{{射速}}射速]]",
+          "wrongList": [
+            "{{射程}}射程",
+            "{{弹速}}弹速"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当{{幸运}}幸运为 [[14点]] 以上时，受到伤害时100%会发射刀片泪弹",
+          "wrongList": [
+            "9点"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}发射的刀片泪弹伤害为：[[400%角色伤害]]",
+          "wrongList": [
+            "200%角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 444,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色每发射 [[15颗]] 泪弹，就会额外抛射一堆血泪",
+          "wrongList": [
+            "5颗"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 445,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色进入一个房间时，如果相邻的房间存在未进入过的{{room|隐藏房}}/{{room|超级隐藏房}}，角色会发出 [[狼嚎]] 的声音",
+          "wrongList": [
+            "吠叫"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "每当角色进入一个房间时，如果该房间中存在破坏后可以生成暗门的石头，角色会发出 [[吠叫]] 的声音",
+          "wrongList": [
+            "狼嚎"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 446,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 447,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 448,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：每当角色受到伤害时，有 [[25%]] 的概率掉落1个红心",
+          "wrongList": [
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 449,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：每当角色被敌方泪弹击中时，有 [[25%]] 的概率弹回1颗眩晕泪弹",
+          "wrongList": [
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 450,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：角色每发射 [[20颗]] 泪弹，便会额外发射1颗硬币泪弹，并失去1枚硬币",
+          "wrongList": [
+            "10颗"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "硬币泪弹的伤害为：[[200%角色伤害]]",
+          "wrongList": [
+            "400%角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 451,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 452,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：每当角色受到伤害，向四周发射 [[10颗]] 泪弹",
+          "wrongList": [
+            "4颗"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 453,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "眼泪变为骨头，当骨头碰到墙壁、障碍物或敌人后会分裂出 [[1~3]] 个碎片",
+          "wrongList": [
+            "3~5"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "{{N}}分裂出的碎片会造成 [[50%角色伤害]]",
+          "wrongList": [
+            "25%角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 454,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：[[允许角色同时拥有2个胶囊或卡牌]]",
+          "wrongList": [
+            "允许角色同时拥有2个饰品",
+            "允许角色同时拥有2个主动道具"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 455,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 456,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 457,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "该道具效果为：[[20%概率]] 免疫所有类型伤害",
+          "wrongList": [
+            "10%概率"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色位于{{item|圣地大便}}的光环内时，免疫伤害的概率从20%变为 [[60%]]",
+          "wrongList": [
+            "40%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 458,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "该道具效果为：[[允许角色同时拥有2个饰品]]",
+          "wrongList": [
+            "允许角色同时拥有2个胶囊或卡牌",
+            "允许角色同时拥有2个主动道具"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 459,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色有 [[20%]] 概率发射1颗鼻屎泪弹",
+          "wrongList": [
+            "10%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "黏住的鼻屎泪弹造成每秒1次 [[100%]] 的角色伤害",
+          "wrongList": [
+            "200%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "鼻屎泪弹会黏在敌人身上最多 [[10秒]]",
+          "wrongList": [
+            "60秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 460,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色有 [[5%]] 概率发射致盲泪弹",
+          "wrongList": [
+            "20%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色的{{幸运}}幸运达到100点以上时，发射致盲泪弹的概率为 [[5%]]",
+          "wrongList": [
+            "100%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 461,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "当角色拥有5点{{幸运}}幸运时，发射虫卵泪弹的概率达到最大值：[[50%]]",
+          "wrongList": [
+            "100%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "当角色拥有 [[5点]] {{幸运}}幸运时，发射虫卵泪弹的概率达到最大值50%",
+          "wrongList": [
+            "14点"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 462,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "穿透敌人后的泪弹获得伤害倍率 [[x200%]]",
+          "wrongList": [
+            "x500%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 463,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色有 [[25%]] 的概率发射硫酸泪弹",
+          "wrongList": [
+            "5%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 464,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 465,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 466,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 467,
+      "questions": [
+        {
+          "stage": 2,
+          "value": "对{{N}}指向怪物造成 [[每秒10次10%角色伤害]]",
+          "wrongList": [
+            "每秒10次100%角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 468,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 469,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当{{N}}跟班接触到敌人时，有概率 [[生成一道圣光攻击敌人]]",
+          "wrongList": [
+            "使敌人石化",
+            "使敌人中毒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 470,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 471,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 472,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 473,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 474,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 475,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，对房间内所有敌人造成9999999点伤害，并在 [[3秒]] 后消灭角色",
+          "wrongList": [
+            "1秒"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "对{{entity|寄居骷髅|-192px-144px|enemy}}使用{{N}}后，[[不可以]] 将其击败",
+          "wrongList": [
+            "可以"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 476,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 477,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每吞噬一个被动道具，便会随机增加角色的 [[两项]] 属性",
+          "wrongList": [
+            "一项"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 478,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，最多冻结敌人 [[30秒]]",
+          "wrongList": [
+            "5秒"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 479,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}} [[可以]] 吞噬{{item|血虱}}",
+          "wrongList": [
+            "不可以"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 480,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 481,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 482,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 483,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}} [[可以]] 无视时限打开{{stage|???}}的入口",
+          "wrongList": [
+            "不可以"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 484,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 485,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，有 [[50%]] 的概率复制当前房间中的所有道具和掉落物，否则使它们消失",
+          "wrongList": [
+            "25%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 486,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 487,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用{{N}}后，[[不会]] 降低{{room|恶魔房}}开启率",
+          "wrongList": [
+            "会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 488,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 489,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "{{N}}不包含的道具是：[[{{item|计数二十面骰}}]]",
+          "wrongList": [
+            "{{item|二十面骰}}",
+            "{{item|一百面骰}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 490,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "使用后，随机生成两个 [[当前房间道具池]] 的道具",
+          "wrongList": [
+            "天使房道具池"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 491,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色每清理 [[7个]] 房间，便生成1个胶囊",
+          "wrongList": [
+            "3个"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 492,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 493,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 494,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "生成的电弧可以造成 [[50%角色伤害]]",
+          "wrongList": [
+            "100%角色伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 495,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当角色拥有10点{{幸运}}幸运时，发射蓝色火焰的概率达到最大值：[[50%]]",
+          "wrongList": [
+            "100%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|硫磺火}}搭配，效果为：[[发射硫磺火的同时概率发射火焰]]",
+          "wrongList": [
+            "{{item|硫磺火}}覆盖{{N}}"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "与{{item|妈妈的菜刀}}搭配，效果为：[[发射菜刀的同时概率发射火焰]]",
+          "wrongList": [
+            "{{item|妈妈的菜刀}}覆盖{{N}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 496,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 497,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "蓄力{{item|硫磺火}} [[会]] 取消迷彩效果",
+          "wrongList": [
+            "不会"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 498,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 499,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "角色拾取{{N}}后，如果想进入{{room|恶魔房}}，则必须拥有 [[{{item|二元性}}]]",
+          "wrongList": [
+            "{{item|山羊头}}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 500,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 501,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 502,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 503,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当角色拥有15点{{幸运}}幸运时，发射巨角恶魔手泪弹的概率达到最大值：[[20%]]",
+          "wrongList": [
+            "100%"
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "巨角恶魔手泪弹 [[可以]] 消灭无敌状态的{{entity|寄居骷髅|-192px-144px|enemy}}",
+          "wrongList": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 504,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 505,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "每当角色进入一个有敌人的房间时，有 [[20%]] 概率生成1个随机友好敌人",
+          "wrongList": [
+            "50%"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 506,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "当角色的泪弹击中敌人的 [[背部]] 时额外造成一次100%泪弹伤害",
+          "wrongList": [
+            "侧面",
+            "正面"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "item",
+      "id": 507,
+      "questions": []
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
+    {
+      "type": "item",
+      "id": 5,
+      "questions": [
+        {
+          "stage": 3,
+          "value": "",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+        {
+          "stage": 3,
+          "value": "[[]]",
+          "wrongList": [
+            "",
+            ""
+          ]
+        },
+      ]
+    },
   ]
 }

@@ -17,7 +17,7 @@ fs.readFile(path, "utf8", (err, data) => {
     const formated = handleJSON(json);
 
     // 保存文件
-    fs.writeFile(path, formated, "utf8", (err) => {
+    fs.writeFile(path, JSON.stringify(formated, null, 2), "utf8", (err) => {
       if (err) {
         console.error("写入文件时发生错误:", err);
       } else {
@@ -31,9 +31,8 @@ fs.readFile(path, "utf8", (err, data) => {
 
 const handleJSON = (json) => {
   // json.item 中的每个元素，删除 tags 属性
-  // json.item.forEach((it) => {
-  //   // delete it.tags;
-  //   it.tags = [];
-  // });
+  json.item.forEach((it) => {
+    delete it.tags;
+  });
   return json;
 };
