@@ -34,5 +34,6 @@ const handleJSON = (json) => {
   json.item.forEach((it) => {
     delete it.tags;
   });
+  json.item = json.item.filter((it) => it.questions?.length > 0);
   return json;
 };
